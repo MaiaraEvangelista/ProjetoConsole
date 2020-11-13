@@ -1,0 +1,13 @@
+/home/maiara/Área de Trabalho/console/console/bin/Debug/netcoreapp3.1/console
+/home/maiara/Área de Trabalho/console/console/bin/Debug/netcoreapp3.1/console.deps.json
+/home/maiara/Área de Trabalho/console/console/bin/Debug/netcoreapp3.1/console.runtimeconfig.json
+/home/maiara/Área de Trabalho/console/console/bin/Debug/netcoreapp3.1/console.runtimeconfig.dev.json
+/home/maiara/Área de Trabalho/console/console/bin/Debug/netcoreapp3.1/console.dll
+/home/maiara/Área de Trabalho/console/console/bin/Debug/netcoreapp3.1/console.pdb
+/home/maiara/Área de Trabalho/console/console/obj/Debug/netcoreapp3.1/console.csprojAssemblyReference.cache
+/home/maiara/Área de Trabalho/console/console/obj/Debug/netcoreapp3.1/console.AssemblyInfoInputs.cache
+/home/maiara/Área de Trabalho/console/console/obj/Debug/netcoreapp3.1/console.AssemblyInfo.cs
+/home/maiara/Área de Trabalho/console/console/obj/Debug/netcoreapp3.1/console.csproj.CoreCompileInputs.cache
+/home/maiara/Área de Trabalho/console/console/obj/Debug/netcoreapp3.1/console.dll
+/home/maiara/Área de Trabalho/console/console/obj/Debug/netcoreapp3.1/console.pdb
+/home/maiara/Área de Trabalho/console/console/obj/Debug/netcoreapp3.1/console.genruntimeconfig.cache
